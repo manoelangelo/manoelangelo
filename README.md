@@ -5,6 +5,4 @@
 #### These are the languages and frameworks I work with:
 *  Java
 *  Spring-boot
-*  PHP
-*  Laravel
 *  Kotlin
