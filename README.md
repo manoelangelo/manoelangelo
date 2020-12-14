@@ -17,6 +17,7 @@
 *  Flyway
 *  Hibernate
 *  JPA
+*  Log4j2
 
 ### I worked in the companies:
 * IFPB - January 2018 to March 2018
