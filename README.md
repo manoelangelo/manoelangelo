@@ -22,6 +22,6 @@
 ### I worked in the companies:
 * IFPB - January 2018 to March 2018
 * Phoebus - April 2018 to November 2020
-* Invillia - December 2020 - Currently
+* Invillia (PagSeguro context) - December 2020 - Currently
 
 You can find me on [linkedin](https://www.linkedin.com/in/manoelangelo/) or [telegram](https://t.me/manoelangelo). Feel free to reach me out if you want to talk about technology or other things ;)
