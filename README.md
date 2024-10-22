@@ -1,25 +1,14 @@
 ### Hello world, my name is Manoel Angelo!
 
-#### I am a software developer and currently live in João Pessoa, working at [Cielo](https://www.cielo.com.br/).
+I'm back-end developer, using Java, Kotlin, Spring and AWS, currently living in João Pessoa and working at [Cielo](https://www.cielo.com.br/).
 
-#### These are the languages, frameworks and tools I work with:
-*  Java;
-*  Kotlin;
-*  Spring;
-*  AWS;
-*  ISO 8583;
-*  Message Broker (Kafka and SQS);
-*  Test (Unit, Integrations, E2E);
-*  REST;
-*  SOAP;
-*  SQL Databases (PostgreSQL and Oracle);
-*  NoSQL;
-*  Cache;
+#### You can reach me:
 
-### I worked in the companies:
-* IFPB - January 2018 to March 2018
-* Phoebus - April 2018 to November 2020
-* Invillia (PagSeguro context) - December 2020 to August 2023
-* Cielo - August 2023 - Currently
+[![Linkedin Badge](https://img.shields.io/badge/-manoelangelo-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoelangelo/)](https://www.linkedin.com/in/manoelangelo/)<br>
+[![Instagram Badge](https://img.shields.io/badge/-manoelangelo-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/manoelangelo/)](https://www.instagram.com/manoelangelo/)<br>
+[![X Badge](https://img.shields.io/badge/-manoelangelo-black?style=flat-square&logo=X&logoColor=white&link=https://x.com/_manoelangelo)](https://x.com/_manoelangelo)<br>
+[![Gmail Badge](https://img.shields.io/badge/-angelo.manoel.neto@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:angelo.manoel.neto@gmail.com)](mailto:angelo.manoel.neto@gmail.com)
 
-You can find me on [linkedin](https://www.linkedin.com/in/manoelangelo/) or [telegram](https://t.me/manoelangelo). Feel free to reach me out if you want to talk about technology or other things ;)
+#### Coding status
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoelangelo&layout=compact&theme=dark)
